@@ -90,7 +90,7 @@ JSON_QUERY(name.response, '$.music_names[0].name')
 
 -------
 
-## 2. EXTRACT()
+## 2. EXTRACT
 Bigquery에서 data시간 관련 지원 함수
 ```
 EXTRACT(시간 함수(링크참조) FROM '시간 관련 필드')
