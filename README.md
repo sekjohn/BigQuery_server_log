@@ -1,7 +1,4 @@
-# BigQuery
-> 공식 문서
-> https://cloud.google.com/bigquery/docs/reference/standard-sql/enabling-standard-sql?hl=ko 
-## SQL
+# SQL
 기본 sql 문법 
 
 
@@ -70,7 +67,9 @@ SELECT 컬럼 FROM 테이블 WHERE 컬럼 is not null
 SELECT 컬럼,컬럼2 FROM 테이블 WHERE 컬럼 is not null and 컬럼2 is not null
 ```
 ---------------------------------------------------------------------------
-
+# BigQuery
+> 공식 문서
+> https://cloud.google.com/bigquery/docs/reference/standard-sql/enabling-standard-sql?hl=ko 
 
 ## 1. JSON_QUERY
 Bigquery 쿼리 안에서 json key 값 및 value 값 확인 
