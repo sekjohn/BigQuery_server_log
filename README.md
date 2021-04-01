@@ -101,3 +101,7 @@ EXTRACT(WEEK FROM data_time)
 ```
 > 관련링크
   https://cloud.google.com/bigquery/docs/reference/standard-sql/date_functions?hl=ko
+--------  
+## 구글 데이터슈튜디오
+
+![스크린샷 2021-04-01 오후 2 51 09](https://user-images.githubusercontent.com/57163202/113249772-43afb500-92fa-11eb-9867-5d5e6560af8f.png)
