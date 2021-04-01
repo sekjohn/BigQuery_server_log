@@ -96,12 +96,12 @@ Bigquery에서 data시간 관련 지원 함수
 EXTRACT(시간 함수(링크참조) FROM '시간 관련 필드')
 ```
 ```
-ex)
-EXTRACT(WEEK FROM data_time)
+전의)
+EXTRACT (WEEK FROM data_time)
 ```
 > 관련링크
   https://cloud.google.com/bigquery/docs/reference/standard-sql/date_functions?hl=ko
 --------  
-## 구글 데이터슈튜디오
+# 구글 데이터슈튜디오 연동
 
 ![스크린샷 2021-04-01 오후 2 51 09](https://user-images.githubusercontent.com/57163202/113249772-43afb500-92fa-11eb-9867-5d5e6560af8f.png)
